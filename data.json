@@ -27,7 +27,7 @@
   { "name": "Grammarly", "url": "https://grammarly.com", "cat": "Writing", "desc": "AI writing assistant for grammar and tone." },
   { "name": "QuillBot", "url": "https://quillbot.com", "cat": "Writing", "desc": "Powerful paraphrasing and summarizing tool." },
   { "name": "Ideogram", "url": "https://ideogram.ai", "cat": "Design", "desc": "Best AI for typography and text within images." },
-  { "name": "Leonardo.ai", "class": "Design", "desc": "Versatile creative platform for high-end assets." },
+  { "name": "Leonardo.ai", "url": "https://https://leonardo.ai/", "cat": "Design", "desc": "Versatile creative platform for high-end assets." },
   { "name": "GitHub Copilot", "url": "https://github.com/features/copilot", "cat": "Coding", "desc": "The original AI coding assistant for VS Code." },
   { "name": "Jasper", "url": "https://jasper.ai", "cat": "Writing", "desc": "Enterprise-grade AI content and marketing copy." },
   { "name": "Heidrun", "url": "https://heidrun.com", "cat": "Legal", "desc": "AI legal assistant for contract analysis." },
@@ -107,6 +107,6 @@
   { "name": "Luzia", "url": "https://luzia.com", "cat": "General", "desc": "Friendly, multilingual AI assistant accessed directly via WhatsApp." },
   { "name": "Replicate", "url": "https://replicate.com", "cat": "Developers", "desc": "Run open-source machine learning models with a simple API." },
   { "name": "Syllaby", "url": "https://syllaby.io", "cat": "Video", "desc": "AI script writer for creating engaging social media video content." },
-  { "name": "Baseten", "url": "https://www.baseten.co", "cat": "Developers", "desc": "Fast, scalable infrastructure for deploying AI models." }
+  { "name": "Baseten", "url": "https://www.baseten.co", "cat": "Developers", "desc": "Fast, scalable infrastructure for deploying AI models." },
   { "name": "Retool", "url": "https://retool.com", "cat": "Coding", "desc": "Build internal tools quickly with AI components." }
 ]
