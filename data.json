@@ -55,7 +55,7 @@
   { "name": "Gamma", "url": "https://gamma.app", "cat": "Design", "desc": "AI for decks, docs, and webpages." },
   { "name": "Veed.io", "url": "https://veed.io", "cat": "Video", "desc": "AI-powered online video editor with auto-subtitles." },
   { "name": "Tome", "url": "https://tome.app", "cat": "Productivity", "desc": "AI-native storytelling and presentation platform." },
-  { "name": "Koe Recast", "url": "https://koe.ai", "cat": "Audio", "desc": "Transform your voice into any other person or character." }
+  { "name": "Koe Recast", "url": "https://koe.ai", "cat": "Audio", "desc": "Transform your voice into any other person or character." },
   { "name": "Fireflies.ai", "url": "https://fireflies.ai", "cat": "Productivity", "desc": "Records and searches across all your meetings." },
   { "name": "HubSpot AI", "url": "https://hubspot.com", "cat": "Business", "desc": "AI-powered CRM for sales and marketing automation." },
   { "name": "Opus Clip", "url": "https://www.opus.pro", "cat": "Video", "desc": "Instantly turn long talk shows or podcasts into viral YouTube Shorts." },
